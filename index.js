@@ -10,7 +10,7 @@ const schoolEmail = "flyb.rigonan.swu@phinmaed.com";
 
 // Routes
 app.get('/', (req, res) => {
-    res.send("TESTING LANG");
+    res.send("ITE 314 - ACTIVITY");
 });
 
 app.get('/firstname', (req, res) => {
